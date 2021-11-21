@@ -16,6 +16,8 @@ public class ThreeTest extends base {
 		driver.get("http://tutorialsninja.com/demo/");
 		Thread.sleep(2000);
 		driver.close();
+		
+		System.out.println("information is wealth");
 	}
 
 }
