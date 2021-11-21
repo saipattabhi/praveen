@@ -1,0 +1,133 @@
+10:43:55.527 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:43:55.699 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:43:56.142 [main] DEBUG Tests.Loginpage - login option has clicked
+10:43:57.023 [main] DEBUG Tests.Loginpage - login button got clicked
+10:43:57.245 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:44:00.980 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:44:01.079 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:44:01.540 [main] DEBUG Tests.Loginpage - login option has clicked
+10:44:02.160 [main] DEBUG Tests.Loginpage - login button got clicked
+10:44:12.335 [main] DEBUG Tests.Loginpage - The browser has got closed
+11:05:09.926 [main] DEBUG Tests.Loginpage - The browser has got launched
+11:05:10.046 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+11:05:10.372 [main] DEBUG Tests.Loginpage - login option has clicked
+11:05:11.244 [main] DEBUG Tests.Loginpage - login button got clicked
+11:05:11.493 [main] DEBUG Tests.Loginpage - The browser has got closed
+11:16:28.293 [TestNG-tests-1] DEBUG Tests.Loginpage - The browser has got launched
+11:16:28.402 [TestNG-tests-1] DEBUG Tests.Loginpage - my account dropdown has clicked
+11:16:28.731 [TestNG-tests-1] DEBUG Tests.Loginpage - login option has clicked
+11:16:29.527 [TestNG-tests-1] DEBUG Tests.Loginpage - login button got clicked
+11:16:29.806 [TestNG-tests-1] DEBUG Tests.Loginpage - The browser has got closed
+12:30:20.570 [TestNG-tests-1] DEBUG Tests.Loginpage - The browser has got launched
+12:30:20.667 [TestNG-tests-1] DEBUG Tests.Loginpage - my account dropdown has clicked
+12:30:20.997 [TestNG-tests-1] DEBUG Tests.Loginpage - login option has clicked
+12:30:21.644 [TestNG-tests-1] DEBUG Tests.Loginpage - login button got clicked
+12:30:21.804 [TestNG-tests-1] DEBUG Tests.Loginpage - The browser has got closed
+16:37:59.855 [main] DEBUG Tests.Loginpage - The browser has got launched
+16:38:00.012 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+16:38:00.478 [main] DEBUG Tests.Loginpage - login option has clicked
+16:38:01.394 [main] DEBUG Tests.Loginpage - login button got clicked
+16:38:01.698 [main] DEBUG Tests.Loginpage - The browser has got closed
+16:58:40.755 [TestNG-tests-1] DEBUG Tests.Loginpage - The browser has got launched
+16:58:41.027 [TestNG-tests-1] DEBUG Tests.Loginpage - my account dropdown has clicked
+16:58:41.592 [TestNG-tests-1] DEBUG Tests.Loginpage - login option has clicked
+16:58:42.664 [TestNG-tests-1] DEBUG Tests.Loginpage - login button got clicked
+16:58:43.124 [TestNG-tests-1] DEBUG Tests.Loginpage - The browser has got closed
+17:05:38.020 [TestNG-tests-1] DEBUG Tests.Loginpage - The browser has got launched
+17:05:38.229 [TestNG-tests-1] DEBUG Tests.Loginpage - my account dropdown has clicked
+17:05:39.694 [TestNG-tests-1] DEBUG Tests.Loginpage - login option has clicked
+17:05:40.603 [TestNG-tests-1] DEBUG Tests.Loginpage - login button got clicked
+17:05:40.991 [TestNG-tests-1] DEBUG Tests.Loginpage - The browser has got closed
+17:19:02.268 [TestNG-tests-1] DEBUG Tests.Loginpage - The browser has got launched
+17:19:03.706 [TestNG-tests-1] DEBUG Tests.Loginpage - my account dropdown has clicked
+17:19:04.099 [TestNG-tests-1] DEBUG Tests.Loginpage - login option has clicked
+17:19:05.097 [TestNG-tests-1] DEBUG Tests.Loginpage - login button got clicked
+17:19:05.349 [TestNG-tests-1] DEBUG Tests.Loginpage - The browser has got closed
+19:05:41.416 [TestNG-tests-1] DEBUG Tests.Loginpage - The browser has got launched
+19:05:41.583 [TestNG-tests-1] DEBUG Tests.Loginpage - my account dropdown has clicked
+19:05:42.282 [TestNG-tests-1] DEBUG Tests.Loginpage - login option has clicked
+19:05:43.218 [TestNG-tests-1] DEBUG Tests.Loginpage - login button got clicked
+19:05:43.386 [TestNG-tests-1] DEBUG Tests.Loginpage - The browser has got closed
+19:17:41.301 [TestNG-tests-1] DEBUG Tests.Loginpage - The browser has got launched
+19:17:41.521 [TestNG-tests-1] DEBUG Tests.Loginpage - my account dropdown has clicked
+19:17:41.905 [TestNG-tests-1] DEBUG Tests.Loginpage - login option has clicked
+19:17:43.234 [TestNG-tests-1] DEBUG Tests.Loginpage - login button got clicked
+19:17:47.946 [TestNG-tests-1] DEBUG Tests.Loginpage - The browser has got closed
+10:12:57.103 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:12:57.260 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:12:57.608 [main] DEBUG Tests.Loginpage - login option has clicked
+10:12:58.278 [main] DEBUG Tests.Loginpage - login button got clicked
+10:13:08.506 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:13:12.446 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:13:12.537 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:13:12.942 [main] DEBUG Tests.Loginpage - login option has clicked
+10:13:13.566 [main] DEBUG Tests.Loginpage - login button got clicked
+10:13:23.758 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:13:27.152 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:13:27.258 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:13:27.596 [main] DEBUG Tests.Loginpage - login option has clicked
+10:13:28.290 [main] DEBUG Tests.Loginpage - login button got clicked
+10:13:38.498 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:13:41.686 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:13:41.799 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:13:42.137 [main] DEBUG Tests.Loginpage - login option has clicked
+10:13:42.922 [main] DEBUG Tests.Loginpage - login button got clicked
+10:13:43.128 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:26:25.059 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:26:25.201 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:26:25.591 [main] DEBUG Tests.Loginpage - login option has clicked
+10:26:26.270 [main] DEBUG Tests.Loginpage - login button got clicked
+10:26:36.533 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:26:39.725 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:26:39.785 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:26:40.122 [main] DEBUG Tests.Loginpage - login option has clicked
+10:26:40.736 [main] DEBUG Tests.Loginpage - login button got clicked
+10:26:50.880 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:26:54.253 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:26:54.328 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:26:54.688 [main] DEBUG Tests.Loginpage - login option has clicked
+10:26:55.352 [main] DEBUG Tests.Loginpage - login button got clicked
+10:27:05.562 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:27:08.701 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:27:08.774 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:27:09.140 [main] DEBUG Tests.Loginpage - login option has clicked
+10:27:09.913 [main] DEBUG Tests.Loginpage - login button got clicked
+10:27:10.124 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:33:58.121 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:33:58.241 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:33:58.647 [main] DEBUG Tests.Loginpage - login option has clicked
+10:33:59.383 [main] DEBUG Tests.Loginpage - login button got clicked
+10:34:09.605 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:34:14.060 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:34:14.144 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:34:14.506 [main] DEBUG Tests.Loginpage - login option has clicked
+10:34:15.131 [main] DEBUG Tests.Loginpage - login button got clicked
+10:34:25.286 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:34:28.624 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:34:28.729 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:34:29.197 [main] DEBUG Tests.Loginpage - login option has clicked
+10:34:29.842 [main] DEBUG Tests.Loginpage - login button got clicked
+10:34:40.001 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:34:43.321 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:34:43.402 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:34:43.710 [main] DEBUG Tests.Loginpage - login option has clicked
+10:34:44.476 [main] DEBUG Tests.Loginpage - login button got clicked
+10:34:44.669 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:34:48.258 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:34:48.352 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:34:48.701 [main] DEBUG Tests.Loginpage - login option has clicked
+10:34:49.279 [main] DEBUG Tests.Loginpage - login button got clicked
+10:34:59.425 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:35:02.828 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:35:02.903 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:35:03.244 [main] DEBUG Tests.Loginpage - login option has clicked
+10:35:03.853 [main] DEBUG Tests.Loginpage - login button got clicked
+10:35:14.031 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:35:16.949 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:35:17.007 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:35:17.303 [main] DEBUG Tests.Loginpage - login option has clicked
+10:35:18.089 [main] DEBUG Tests.Loginpage - login button got clicked
+10:35:28.286 [main] DEBUG Tests.Loginpage - The browser has got closed
+10:35:31.529 [main] DEBUG Tests.Loginpage - The browser has got launched
+10:35:31.622 [main] DEBUG Tests.Loginpage - my account dropdown has clicked
+10:35:32.088 [main] DEBUG Tests.Loginpage - login option has clicked
