@@ -22,6 +22,8 @@ public void TwoTest() throws IOException, Exception {
 	driver.get("http://tutorialsninja.com/demo/");
 	Thread.sleep(2000);
 	driver.close();
+	
+	System.out.println("pratice make man perfect");
 
 	}
 	
